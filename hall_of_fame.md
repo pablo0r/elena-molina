@@ -7,6 +7,7 @@ Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y 
 
 ## Proyectos actuales: 
 
+2026 - [**Elena Molina · Escapadas Naturales**](plantilla.md) — Darío Carrasco, Pablo Almeida, Daniella (MGTPN-Granada). Comunidad online para profesionales urbanos con estrés crónico. *Pausa, naturaleza y comunidad.* `#EscapadasNaturales`
 
 
 
